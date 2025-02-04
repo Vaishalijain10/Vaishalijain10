@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Vaishali Jain!<br><br>💻 Passionate Software Engineer & Full Stack Developer<br>🚀 Eager to build scalable and impactful solutions<br>🎯 Currently exploring job opportunities to contribute, learn, and grow
+👋 Hey, I'm Vaishali Jain!<br><br>💻 Passionate Software Engineer & Full Stack Developer<br>🚀 Eager to build scalable and impactful solutions<br>🎯 Currently exploring job opportunities to contribute, learn, and grow!
 
 
 ## 🌐 Socials:
